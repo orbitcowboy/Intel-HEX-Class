@@ -1,8 +1,7 @@
 /****************************************************************************
 ** Resource object code
 **
-** Created: Wed Apr 11 00:55:04 2012
-**      by: The Resource Compiler for Qt version 4.7.0
+** Created by: The Resource Compiler for Qt version 4.8.7
 **
 ** WARNING! All changes made in this file will be lost!
 *****************************************************************************/
@@ -10,7 +9,7 @@
 #include <QtCore/qglobal.h>
 
 static const unsigned char qt_resource_data[] = {
-  // /home/stuart/sw-dev/inthex/qt-utilities/qtIntegrity/images/intelhexclass.png
+  // /home/martin/Desktop/Intel-HEX-Class/qt-utilities/qtIntegrity/images/intelhexclass.png
   0x0,0x0,0x8f,0x16,
   0x89,
   0x50,0x4e,0x47,0xd,0xa,0x1a,0xa,0x0,0x0,0x0,0xd,0x49,0x48,0x44,0x52,0x0,

@@ -16,8 +16,7 @@ SOURCES += main.cpp\
     ../../intelhex_class/intelhexclass.cpp
 
 HEADERS  += mainwindow.h \
-        intelhexclass.h \
-    ../../intelhexclass.h
+        ../../intelhex_class/intelhexclass.h
 
 RESOURCES += \
     qtIntegrity.qrc
